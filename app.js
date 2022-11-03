@@ -33,7 +33,7 @@ function main() {
             div.remove();
             div = null;
         }
-        generateToastMessage(`${output.value} copied`);
+        generateToastMessage(`${output.value} Copied`);
     });
 }
 
